@@ -12,3 +12,8 @@ It's the CanCon cookbook! Add your favourite recipes for a day of coding.
 [Sourdough bread](sourdough.md)
 
 [Heather’s One-Pot Macaroni & Cheese recipe](HeathersOnePotMacaroniCheese.md)
+
+
+##Drinks recipe
+
+[Silver Fizz](SilverFizz.md)
